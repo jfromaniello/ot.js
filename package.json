@@ -15,7 +15,9 @@
     "url": "https://github.com/operational-transformation/ot.js/issues"
   },
   "main": "./lib/index.js",
-  "dependencies": {},
+  "dependencies": {
+    "lock": "0.0.2"
+  },
   "devDependencies": {
     "socket.io": "0.9.13",
     "grunt": "*"
