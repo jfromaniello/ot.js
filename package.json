@@ -16,7 +16,7 @@
   },
   "main": "./lib/index.js",
   "dependencies": {
-    "lock": "0.0.2"
+    "lock": "https://github.com/jfromaniello/lock/tarball/bug"
   },
   "devDependencies": {
     "socket.io": "0.9.13",
